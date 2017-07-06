@@ -1,0 +1,2 @@
+class FeedHistory < ApplicationRecord
+end
